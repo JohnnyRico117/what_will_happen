@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048621300150",
+    "firebase_url": "https://whatwillhappen-f38ca.firebaseio.com",
+    "project_id": "whatwillhappen-f38ca",
+    "storage_bucket": "whatwillhappen-f38ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048621300150:android:2e2ae03bb1497e31182917",
+        "android_client_info": {
+          "package_name": "com.devfreeze.whatwillhappen.what_will_happen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048621300150-ompirggbf9gfssuoh91jumlrsc3jnoda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-Jxt24SYtU-iDCwdf922ZO8zz9gAQTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048621300150-ompirggbf9gfssuoh91jumlrsc3jnoda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
